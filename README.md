@@ -1,6 +1,4 @@
 # VVVVV-JanEspana
 Teclas:
 -
-A: izquierda
-D: derecha
-Espacio: invertir gravedad
+A: izquierda /br D: derecha /br Espacio: invertir gravedad
